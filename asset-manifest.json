@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.11fd8986.chunk.css",
-    "main.js": "/static/js/main.e33f110d.chunk.js",
-    "main.js.map": "/static/js/main.e33f110d.chunk.js.map",
+    "main.css": "/static/css/main.bfe46133.chunk.css",
+    "main.js": "/static/js/main.7b83e25f.chunk.js",
+    "main.js.map": "/static/js/main.7b83e25f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.646feff7.js",
     "runtime-main.js.map": "/static/js/runtime-main.646feff7.js.map",
     "static/css/2.ecf9ac5e.chunk.css": "/static/css/2.ecf9ac5e.chunk.css",
-    "static/js/2.ef755353.chunk.js": "/static/js/2.ef755353.chunk.js",
-    "static/js/2.ef755353.chunk.js.map": "/static/js/2.ef755353.chunk.js.map",
+    "static/js/2.4744a2f6.chunk.js": "/static/js/2.4744a2f6.chunk.js",
+    "static/js/2.4744a2f6.chunk.js.map": "/static/js/2.4744a2f6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ecf9ac5e.chunk.css.map": "/static/css/2.ecf9ac5e.chunk.css.map",
-    "static/css/main.11fd8986.chunk.css.map": "/static/css/main.11fd8986.chunk.css.map",
-    "static/js/2.ef755353.chunk.js.LICENSE.txt": "/static/js/2.ef755353.chunk.js.LICENSE.txt",
+    "static/css/main.bfe46133.chunk.css.map": "/static/css/main.bfe46133.chunk.css.map",
+    "static/js/2.4744a2f6.chunk.js.LICENSE.txt": "/static/js/2.4744a2f6.chunk.js.LICENSE.txt",
     "static/media/1.5ed25787.JPG": "/static/media/1.5ed25787.JPG",
     "static/media/1.cc5c07ae.jpg": "/static/media/1.cc5c07ae.jpg",
     "static/media/2.4a044e25.jpg": "/static/media/2.4a044e25.jpg",
@@ -27,7 +27,6 @@
     "static/media/fb.47b6a07e.png": "/static/media/fb.47b6a07e.png",
     "static/media/granite.5eb3c066.jpg": "/static/media/granite.5eb3c066.jpg",
     "static/media/granite.9ed75993.png": "/static/media/granite.9ed75993.png",
-    "static/media/granite.c0e2fbf1.gif": "/static/media/granite.c0e2fbf1.gif",
     "static/media/logo.63ea66ef.png": "/static/media/logo.63ea66ef.png",
     "static/media/marble.11ac211c.png": "/static/media/marble.11ac211c.png",
     "static/media/marble.38cd8bcb.jpg": "/static/media/marble.38cd8bcb.jpg",
@@ -39,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.646feff7.js",
     "static/css/2.ecf9ac5e.chunk.css",
-    "static/js/2.ef755353.chunk.js",
-    "static/css/main.11fd8986.chunk.css",
-    "static/js/main.e33f110d.chunk.js"
+    "static/js/2.4744a2f6.chunk.js",
+    "static/css/main.bfe46133.chunk.css",
+    "static/js/main.7b83e25f.chunk.js"
   ]
 }
