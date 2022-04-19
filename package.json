@@ -1,0 +1,74 @@
+{
+  "homepage": "http://landolabrum.github.io/",
+  "name": "template",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://shibe.online",
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.21.1",
+    "background-cover": "^0.1.0",
+    "emailjs-com": "^2.6.4",
+    "express": "^4.17.1",
+    "goober": "^2.0.33",
+    "google-map-react": "^2.1.9",
+    "google-maps-react": "^2.0.6",
+    "history": "^4.10.1",
+    "image-thumbnail": "^1.0.13",
+    "insert-rule": "^2.1.0",
+    "iphone-inline-video": "^2.2.2",
+    "jquery": "^3.5.1",
+    "list-react-files": "^0.2.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "mime": "^1.6.0",
+    "moment": "^2.29.1",
+    "origen-react-instagram-feed": "0.0.3",
+    "preval.macro": "^5.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-instafeed": "^1.0.0",
+    "react-instagram-authless-feed": "github:jamesmoriarty/react-instagram-authless-feed",
+    "react-lazy-hero": "^2.0.0",
+    "react-materialize": "^3.9.3",
+    "react-photo-gallery": "^8.0.0",
+    "react-responsive-carousel": "^3.2.12",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-social-icons": "^4.1.0",
+    "reactstrap": "^8.9.0",
+    "styled-components": "^5.2.1",
+    "use-abortable-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "clean": "gh-pages-clean",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining": "^7.13.12",
+    "gh-pages": "^3.1.0"
+  }
+}
